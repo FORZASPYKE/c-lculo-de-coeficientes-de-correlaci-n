@@ -8,11 +8,13 @@ public class correlaciones {
          try{
             FileReader ArchivoLectura = new FileReader("startup-profit.csv");
 
-            BufferedReader ArchivoEscritura = new BufferedReader(startup-profit.csv);
+            BufferedReader ArchivoEscritura = new BufferedReader(ArchivoLectura);
             String almacen = null;
             double suma = 0.0;
             int contador = 0;
+            
          }
+         System.out.println("Esto es un mensaje de prueba");
 
     }
 }
